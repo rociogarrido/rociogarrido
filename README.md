@@ -23,16 +23,20 @@ Transitioning to web development has enabled me to continue my lifelong passion 
 </p>
 
 <h3 align="left">Tech Stack and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.react.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank"> <img src="https://www.raw.githubusercontent.com/devicons/devicon/master/icons/github-original.svg" alt="github" width="40" height="40"/></a>
-</p>
+
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/html5.svg">
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/css3.svg">
+<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/bootstrap.svg">
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/javascript.svg">
+<img align="left" alt="JQuery" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/jquery.svg">
+<img align="left" alt="Express+Node" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/node-dot-js.svg">
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/react.svg">
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/mysql.svg">
+<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/git.svg">
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/github.svg">
+<img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/heroku.svg">
+<img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/visualstudiocode.svg">
+<img alt="Slack" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/e3c5a8e2393b90d3bc6535b9d8920177f991e293/slack.svg">
 
   <h3 align="left">What about some stats:</h3>
   
