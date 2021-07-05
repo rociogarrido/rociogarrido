@@ -2,6 +2,8 @@
 
 <h3 align="left">About me:</h3>
 
+<p align="left">Welcome to my GitHub! I'm Rocío, an Spanish Teacher who's transitioning out of the classroom and into de world of Web Development. Through self-study and enrolling a coding bootcamp at Adalab, I am building a solid foundation in both frontend and backend technologies and languages. </p>
+
 - 🔭 I’m currently working on my portfolio
 
 - 🌱 I’m currently learning ReactJS and always learning JavaScript
