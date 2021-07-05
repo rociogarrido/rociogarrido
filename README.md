@@ -24,18 +24,18 @@ Transitioning to web development has enabled me to continue my lifelong passion 
 
 <h3 align="left">Tech Stack and Tools:</h3>
 
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/html5.svg">
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/css3.svg">
-<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/bootstrap.svg">
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/javascript.svg">
-<img align="left" alt="Express+Node" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/node-dot-js.svg">
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/react.svg">
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/mysql.svg">
-<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/git.svg">
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/github.svg">
-<img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/heroku.svg">
-<img align="left" alt="VSCode" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/visualstudiocode.svg">
-<img alt="Slack" width="40px" src="https://raw.githubusercontent.com/rociogarrido/rociogarrido/slack.svg">
+<img align="left" alt="HTML5" width="40px" src="./images/html5.svg">
+<img align="left" alt="CSS3" width="40px" src="./images/css3.svg">
+<img align="left" alt="Bootstrap" width="40px" src="./images/bootstrap.svg">
+<img align="left" alt="JavaScript" width="40px" src="./images/javascript.svg">
+<img align="left" alt="Express+Node" width="40px" src="./images/node-dot-js.svg">
+<img align="left" alt="React" width="40px" src="./images/react.svg">
+<img align="left" alt="MySQL" width="40px" src="./images/mysql.svg">
+<img align="left" alt="Git" width="40px" src="./images/git.svg">
+<img align="left" alt="GitHub" width="40px" src="./images/github.svg">
+<img align="left" alt="Heroku" width="40px" src="./images/heroku.svg">
+<img align="left" alt="VSCode" width="40px" src="./images/vscode.svg">
+<img alt="Slack" width="40px" src="./images/slack.svg">
 
   <h3 align="left">What about some stats:</h3>
   
