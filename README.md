@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocío</h1>
 <p align="left">Passionate Spanish Teacher with 10+ years of experience. Curious and fascinated by new technologies, I am deeply interested in all kinds of codes and the way Computer Science and Humanities can come together to make our lives easier.
 
-Enthusiastic about languages and having a deep knowledge in Linguistics and Translation, I do feel prepared to put all I have attained during my academic training into practice and I am ready to do my best to contribute to Front-end Development.</p>
+Enthusiastic about languages and having a deep knowledge in **Linguistics**, I do feel prepared to put all I have attained during my academic training into practice and to contribute to **Front-end Development**.</p>
 
 - 🔭 I’m currently working on **my portfolio**.
 
@@ -9,9 +9,9 @@ Enthusiastic about languages and having a deep knowledge in Linguistics and Tran
 
 - 👯 I’m looking to collaborate on **web development projects**.
 
-- 📫 How to reach me **rocioganon@gmail.com**.
+- 📫 How to reach me: **rocioganon@gmail.com**.
 
-- ⚡ Fun fact **I like to read & sing in the shower**.
+- ⚡ Fun facts: **I like to read & sing in the shower**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
