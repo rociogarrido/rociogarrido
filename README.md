@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rocío</h1>
-<h4 align="left">Passionate Spanish Teacher with 10+ years of experience. Curious and fascinated by new technologies, I am deeply interested in all kinds of codes and the way Computer Science and Humanities can come together to make our lives easier.
+<p align="left">Passionate Spanish Teacher with 10+ years of experience. Curious and fascinated by new technologies, I am deeply interested in all kinds of codes and the way Computer Science and Humanities can come together to make our lives easier.
 
-Enthusiastic about languages and having a deep knowledge in Linguistics and Translation, I do feel prepared to put all I have attained during my academic training into practice and I am ready to do my best to contribute to Front-end Development.</h4>
+Enthusiastic about languages and having a deep knowledge in Linguistics and Translation, I do feel prepared to put all I have attained during my academic training into practice and I am ready to do my best to contribute to Front-end Development.</p>
 
 - 🔭 I’m currently working on **my portfolio**.
 
