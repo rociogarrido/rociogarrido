@@ -33,4 +33,7 @@ Enthusiastic about languages and having a deep knowledge in Linguistics and Tran
 
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" /> </p>
 
+<br>
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rociogarrido&show_icons=true&locale=en&layout=compact" alt="rociogarrido" /></p>
