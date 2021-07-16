@@ -8,7 +8,7 @@ Enthusiastic about languages and having a deep knowledge in **Linguistics**, I d
 
 - 🔭 I’m currently working on **my portfolio**.
 
-- 🌱 I’m currently learning **ReactJS** and always learning **JavaScript**.
+- 🌱 I’m currently learning **ReactJS** and always willing to learn **new skills**.
 
 - 👯 I’m looking to collaborate on **web development projects**.
 
