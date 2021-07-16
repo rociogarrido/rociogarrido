@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rocío (Dew, in english)</h1>
 
-![dew](https://user-images.githubusercontent.com/77678575/125944805-6ee7d537-a35b-43a8-a090-2ca79da3362b.jpeg)
+![dew](https://user-images.githubusercontent.com/77678575/125945215-f2f24343-8244-4631-ba8a-85aa39c57b87.png)
 
 <p align="left">Passionate Spanish Teacher with 10+ years of experience. Curious and fascinated by new technologies, I am deeply interested in all kinds of codes and the way Computer Science and Humanities can come together to make our lives easier.
 
