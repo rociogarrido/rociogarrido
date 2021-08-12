@@ -14,7 +14,7 @@ Enthusiastic about languages and having a deep knowledge in **Linguistics**, I d
 
 - 📫 How to reach me: **rocioganon@gmail.com**.
 
-- ⚡ Fun facts: **I like to read & sing in the shower**.
+- ⚡ Fun facts: **I speak English, Russian, French and Serbian.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
