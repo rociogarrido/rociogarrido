@@ -6,9 +6,9 @@
 
 Enthusiastic about languages and having a deep knowledge in **Linguistics**, I do feel prepared to put all I have attained during my academic training into practice and to contribute to **Front-end Development**.</p>
 
-- 🔭 I’m currently working on **my portfolio**.
+- 🔭 I’m currently working on **my personal project**.
 
-- 🌱 I’m currently learning **ReactJS** and always willing to learn **new skills**.
+- 🌱 I’m currently learning **TypeScript** and always willing to learn **new skills**.
 
 - 👯 I’m looking to collaborate on **web development projects**.
 
