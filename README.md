@@ -8,7 +8,7 @@ Enthusiastic about languages and having a deep knowledge in **Linguistics**, I d
 
 - 🔭 I’m currently working on **my personal project**.
 
-- 🌱 I’m currently learning **TypeScript** and always willing to learn **new skills**.
+- 🌱 I’m currently learning **TypeScript**, **Angular** and always willing to learn **new skills**.
 
 - 👯 I’m looking to collaborate on **web development projects**.
 
