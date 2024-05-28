@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rocío (Dew, in english)</h1>
+<h1 align="center">Hi 👋, I'm Rocío</h1>
 
 ![Rocio's GitHub Banner](./images/github-header.png)
 
@@ -8,18 +8,17 @@ Enthusiastic about languages and having a deep knowledge in **Linguistics**, I d
 
 - 🔭 I’m currently working on **my personal project**.
 
-- 🌱 I’m currently learning **TypeScript**, **Angular** and always willing to learn **new skills**.
+- 🌱 I’m currently learning **Angular** and always willing to learn **new skills**.
 
 - 👯 I’m looking to collaborate on **web development projects**.
 
 - 📫 How to reach me: **rocioganon@gmail.com**.
 
-- ⚡ Fun facts: **I speak English, Russian, French and Serbian.**.
+- ⚡ Fun facts: **I speak English, Russian, French, and Serbian.**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rociogarridoanon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rociogarridoanon/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/rocioganon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rocioganon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -29,7 +28,7 @@ Enthusiastic about languages and having a deep knowledge in **Linguistics**, I d
 <br>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <img align="left" alt="github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
+<p align="left"> <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
