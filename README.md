@@ -6,15 +6,15 @@
 
 👩‍💻 I am a **Frontend Developer** with over **3 years of experience** in technologies such as:
 
-⚡ **Angular, Typescript, JavaScript**
-🎨 **HTML5, CSS3, SASS**
-🛠️ Knowledge in **LitElement** and **Web Accessibility**
+- ⚡ **Angular, Typescript, JavaScript**
+- 🎨 **HTML5, CSS3, SASS**
+- 🛠️ Knowledge in **LitElement** and **Web Accessibility**
 
 I stand out for:
 
-🚀 **Fast learning ability** and adaptability
-🤝 Experience collaborating in **international teams**
-💬 **Proficiency in multiple languages** and excellent communication skills
+- 🚀 **Fast learning ability** and adaptability
+- 🤝 Experience collaborating in **international teams**
+- 💬 **Proficiency in multiple languages** and excellent communication skills
 
 🌍 My **passion for languages** (both human and programming) has been the driving force of my career. After teaching Spanish in Russia and Serbia, I discovered that programming is the perfect blend of my interest in communication and technology.
 
