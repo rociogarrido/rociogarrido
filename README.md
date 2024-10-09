@@ -2,19 +2,23 @@
 
 ![Rocio's GitHub Banner](./images/github-header.png)
 
-<p align="left">Passionate Spanish Teacher with 10+ years of experience. Curious and fascinated by new technologies, I am deeply interested in all kinds of codes and the way Computer Science and Humanities can come together to make our lives easier.
+<p align="left">
+👩‍💻 I am a **Frontend Developer** with over **3 years of experience** in technologies such as:
 
-Enthusiastic about languages and having a deep knowledge in **Linguistics**, I do feel prepared to put all I have attained during my academic training into practice and to contribute to **Front-end Development**.</p>
+⚡ **Angular, Typescript, JavaScript**
+🎨 **HTML5, CSS3, SASS**
+🛠️ Knowledge in **LitElement** and **Web Accessibility**
 
-- 🔭 I’m currently working on **my personal project**.
+I stand out for:
 
-- 🌱 I’m currently learning **Angular** and always willing to learn **new skills**.
+🚀 **Fast learning ability** and adaptability
+🤝 Experience collaborating in **international teams**
+💬 **Proficiency in multiple languages** and excellent communication skills
 
-- 👯 I’m looking to collaborate on **web development projects**.
+🌍 My **passion for languages** (both human and programming) has been the driving force of my career. After teaching Spanish in Russia and Serbia, I discovered that programming is the perfect blend of my interest in communication and technology.
 
-- 📫 How to reach me: **rocioganon@gmail.com**.
-
-- ⚡ Fun facts: **I speak English, Russian, French, and Serbian.**.
+💡 **In technology, I find the perfect balance** between creativity and logic, which drives me to keep improving and stay up to date with the latest web development trends.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
