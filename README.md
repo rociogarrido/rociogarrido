@@ -3,6 +3,7 @@
 ![Rocio's GitHub Banner](./images/github-header.png)
 
 <p align="left">
+
 👩‍💻 I am a **Frontend Developer** with over **3 years of experience** in technologies such as:
 
 ⚡ **Angular, Typescript, JavaScript**
