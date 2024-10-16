@@ -31,13 +31,19 @@ I stand out for:
 <br>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<p align="left"> 
+
+<img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
 <img align="left" alt="npm" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
 <img align="left" alt="visual studio code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 
-<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" /> </p>
+<img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" /> 
+
+<img align="left" alt="Postman" width="30px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+
+</p>
 
 <br>
 <br>
